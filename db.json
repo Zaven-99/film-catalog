@@ -1,0 +1,119 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Начало",
+      "year": "2010-07-16T00:00:00Z",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BH8CvFAQRjgbHoYA6mW49gf2LqjNBtbovg&s",
+      "genre": ["Фантастика", "Триллер"],
+      "description": "Вор, который крадет корпоративные секреты с помощью технологии совместного сновидения, получает задание внедрить идею в разум генерального директора.",
+      "raiting": 8.8
+    },
+    {
+      "id": 2,
+      "name": "Интерстеллар",
+      "year": "2014-11-07T00:00:00Z",
+      "imageUrl": "https://resizing.flixster.com/7c3qnZfPzZgID7Ft97PccFwEf9U=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10543523_p_v8_as.jpg",
+      "genre": ["Фантастика", "Драма"],
+      "description": "Группа исследователей отправляется через червоточину, чтобы найти новый дом для человечества.",
+      "raiting": 8.6
+    },
+    {
+      "id": 3,
+      "name": "Бойцовский клуб",
+      "year": "1999-10-15T00:00:00Z",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["Драма", "Триллер"],
+      "description": "История о мужчине, страдающем бессонницей, который создает подпольный бойцовский клуб.",
+      "raiting": 8.8
+    },
+    {
+      "id": 4,
+      "name": "Темный рыцарь",
+      "year": "2008-07-18T00:00:00Z",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["Боевик", "Криминал"],
+      "description": "Бэтмен сталкивается с Джокером, который хочет сеять хаос в Готэм-сити.",
+      "raiting": 9.0
+    },
+    {
+      "id": 5,
+      "name": "Матрица",
+      "year": "1999-03-31T00:00:00Z",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIW_4iSH-IBf17zN589Kf51duvtyOX5T5-g&s",
+      "genre": ["Фантастика", "Боевик"],
+      "description": "Нео узнает, что мир вокруг него — лишь симуляция, и начинает борьбу за освобождение человечества.",
+      "raiting": 8.7
+    },
+    {
+      "id": 6,
+      "name": "Властелин колец: Братство кольца",
+      "year": "2001-12-19T00:00:00Z",
+      "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/7e27f520-071b-40cd-9b10-681dbc6b5cfa/180",
+      "genre": ["Фэнтези", "Приключения"],
+      "description": "Фродо Бэггинс получает задание уничтожить Кольцо Всевластия, чтобы спасти Средиземье.",
+      "raiting": 8.8
+    },
+    {
+      "id": 7,
+      "name": "Гладиатор",
+      "year": "2000-05-05T00:00:00Z",
+      "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/047f45d3-5f37-4cf1-8e58-8fa7f0b61ba1/orig",
+      "genre": ["Боевик", "Драма"],
+      "description": "Римский генерал становится рабом и борется за месть и справедливость.",
+      "raiting": 8.5
+    },
+    {
+      "id": 8,
+      "name": "Начало времени",
+      "year": "2012-11-09T00:00:00Z",
+      "imageUrl": "https://ru-images.kinorium.com/movie/1080/420121.jpg?1598457784",
+      "genre": ["Фантастика", "Приключения"],
+      "description": "Группа исследователей ищет истоки человечества на далекой планете.",
+      "raiting": 7.9
+    },
+    {
+      "id": 9,
+      "name": "Остров проклятых",
+      "year": "2010-02-19T00:00:00Z",
+      "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/8c48db68-b187-44a4-8e74-f8212153160d/220x330",
+      "genre": ["Триллер", "Драма"],
+      "description": "Детектив расследует исчезновение пациентки в психиатрической клинике на изолированном острове.",
+      "raiting": 8.1
+    },
+    {
+      "id": 10,
+      "name": "Дюнкерк",
+      "year": "2017-07-21T00:00:00Z",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Dunkirk_Film_poster.jpg",
+      "genre": ["Военный", "Драма"],
+      "description": "История спасения британских войск из Дюнкерка во время Второй мировой войны.",
+      "raiting": 7.9
+    }
+  ],
+  "genres": [
+    { "id": 1, "name": "Боевик" },
+    { "id": 2, "name": "Приключения" },
+    { "id": 3, "name": "Анимация" },
+    { "id": 4, "name": "Биография" },
+    { "id": 5, "name": "Комедия" },
+    { "id": 6, "name": "Криминал" },
+    { "id": 7, "name": "Документальный" },
+    { "id": 8, "name": "Драма" },
+    { "id": 9, "name": "Семейный" },
+    { "id": 10, "name": "Фэнтези" },
+    { "id": 11, "name": "Фильм-нуар" },
+    { "id": 12, "name": "История" },
+    { "id": 13, "name": "Ужасы" },
+    { "id": 14, "name": "Музыка" },
+    { "id": 15, "name": "Мюзикл" },
+    { "id": 16, "name": "Тайна" },
+    { "id": 17, "name": "Романтика" },
+    { "id": 18, "name": "Научная фантастика" },
+    { "id": 19, "name": "Спорт" },
+    { "id": 20, "name": "Триллер" },
+    { "id": 21, "name": "Война" },
+    { "id": 22, "name": "Вестерн" }
+]
+
+}
