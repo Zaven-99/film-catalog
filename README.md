@@ -1,3 +1,6 @@
+#To start the server, type the following command in the terminal:
+json-server --watch db.json --port 3001
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
